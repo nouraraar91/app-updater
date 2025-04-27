@@ -90,5 +90,29 @@ A native macOS app built with Swift + SwiftUI that helps you **manage, check, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mac-app-updater.git
+   git clone https://github.com/nouraraar91/app-updater
    ```
+2. Open MacAppUpdater.xcodeproj
+
+3. Run the app with ⌘R
+
+4. Done!
+
+## 📜 License
+
+MIT License.
+Feel free to fork, modify, and contribute 🚀
+
+## ❤️ Future Improvements
+
+- Auto-install mas or brew if missing
+
+- Better handling of manual apps with Sparkle updaters
+
+- Background silent update checks
+
+- Auto-refresh periodically
+
+- Dark Mode UI polish
+
+### Built with ❤️ in Swift for Mac users who love keeping their system clean and updated.
