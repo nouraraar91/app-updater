@@ -11,7 +11,7 @@ import SwiftUI
 struct App_UpdaterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppListView()
         }
     }
 }
